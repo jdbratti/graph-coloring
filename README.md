@@ -1,5 +1,5 @@
 
-## Usage:
+## Usage
 
 * Download the code
 * go build; ./graph-coloring -file input_example1.txt -plot 
